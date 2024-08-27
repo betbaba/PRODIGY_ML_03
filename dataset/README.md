@@ -1,7 +1,8 @@
 ## Dataset Information
 
 ### Where to Find the Dataset
-For this project, I utilized a dataset from the Kaggle website. You can access and download the dataset directly from Kaggle using the following link:
+For this project, I utilized a dataset from the Kaggle website. You can access and download the dataset directly from Kaggle using the following link:[Dataset]( https://www.kaggle.com/c/dogs-vs-cats/data)
+
 
 ### Dataset Details
 Due to the performance limitations of my laptop, I selected 2000 images of cats and 2000 images of dogs from the dataset to train the model. If you have a more powerful machine, you are encouraged to use the entire dataset for potentially better results.
